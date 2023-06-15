@@ -1,4 +1,4 @@
-<h1 align="center">Newsletter Signup Form
+<h1 align="center">Signup Form
 </h1>
 
 ![](screenshots/desktop.jpg)
@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-   <a href="https://ahlam-alsaffarini.github.io/FAQ/"> Demo 🔥🤍</a>
+   <a href="https://ahlam-alsaffarini.github.io/SignupForm/"> Demo 🔥🤍</a>
 </div>
 
 <div align="center">
