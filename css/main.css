@@ -132,7 +132,7 @@ p {
 }
 
 .container-sign-up .content .list li::before {
-  content: url("/images/icon-list.svg");
+  content: url("../images/icon-list.svg");
   padding-right: 15px;
 }
 /* end list  */
