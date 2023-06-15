@@ -53,6 +53,9 @@ body {
   position: relative;
   z-index: 1;
 }
+.container-sign-up {
+  height: 100vh;
+}
 .container-sign-up.active {
   display: none;
 }
@@ -76,6 +79,7 @@ body {
   .container-success,
   .container-sign-up {
     padding: 24px;
+    height: 100%;
 
     flex-direction: row;
 
@@ -83,7 +87,6 @@ body {
     box-shadow: 0px 12px 30px 8px hsl(0deg 0% 12% / 50%);
   }
   .container-success {
-    height: 100%;
     padding: 50px 58px;
   }
   .container-success.rotate {
